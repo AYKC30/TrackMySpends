@@ -11,13 +11,13 @@
 <p>Responsive Design: Works seamlessly on both desktop and mobile devices.<p/>
   
 <h2>Tech Stack<h2/>
-Frontend: React.js, React Redux, React Query
-Backend: Node.js, Express.js
-Database: MongoDB
-Architecture: MVC Design Pattern
+<p>Frontend: React.js, React Redux, React Query<p/>
+<p>Backend: Node.js, Express.js<p/>
+<p>Database: MongoDB<p/>
+<p>Architecture: MVC Design Pattern<p/>
   
 <h2>Installation<h2/>
-Prerequisites
-Node.js
-npm (Node Package Manager)
-MongoDB
+<p>Prerequisites<p/>
+<p>Node.js<p/>
+<p>npm (Node Package Manager)<p/>
+<p>MongoDB<p/>
